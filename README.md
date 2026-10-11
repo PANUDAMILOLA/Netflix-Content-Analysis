@@ -42,7 +42,7 @@ An interactive Power BI project exploring Netflix content distribution , release
   - Genre Transformation: Preparing genre information to support analysis of different content categories represented in the dataset.
   - Country Transformation: Creating a country dimension and adding regional classifications to support geographical analysis.
 ## Data Modelling and Relationships
-(<img width="544" height="397" alt="image" src="https://github.com/user-attachments/assets/b29f3265-7402-4730-bd0d-7d80ae10570b" />)
+<img width="544" height="397" alt="image" src="https://github.com/user-attachments/assets/b29f3265-7402-4730-bd0d-7d80ae10570b" />
 
 
 ## Key Metrics
@@ -58,4 +58,10 @@ A set of DAX measures was developed to evaluate the composition of the Netflix c
 | Previous Year Releases | Returns the release count of the previous year where applicable. | Provides comparison point for year-over-year analysis. |
 | YoY Change | Calculates the difference between the current year's and previous year's release counts. | Identifies increases or decreases in releases. |
 | YoY Growth | Calculates the percentage change releases compare with the previous year. | Evaluates the rate of change in annual releases. |
+
+## Executive Summary
+
+The analysis of the Netflix content dataset revealed that 2018 was the peak release year, with 464 titles released. The United States accounted for the largest share of the content collection, followed by India and the United Kingdom, highlighting the prominence of these counties in Netflix's content library.
+
+The analysis provides an overview of content release patterns and geographical distribution, offering insights into the composition and evolution of Netflix's content library.
   
