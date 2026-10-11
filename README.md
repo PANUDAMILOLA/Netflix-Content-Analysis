@@ -42,7 +42,8 @@ An interactive Power BI project exploring Netflix content distribution , release
   - Genre Transformation: Preparing genre information to support analysis of different content categories represented in the dataset.
   - Country Transformation: Creating a country dimension and adding regional classifications to support geographical analysis.
 ## Data Modelling and Relationships
-! [ Netflix Data Model ] (
+(<img width="544" height="397" alt="image" src="https://github.com/user-attachments/assets/b29f3265-7402-4730-bd0d-7d80ae10570b" />)
+
 
 ## Key Metrics
 A set of DAX measures was developed to evaluate the composition of the Netflix content library, examine release_year trends, and support geographical analysis.
