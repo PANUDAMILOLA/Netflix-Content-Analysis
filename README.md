@@ -42,8 +42,19 @@ An interactive Power BI project exploring Netflix content distribution , release
   - Genre Transformation: Preparing genre information to support analysis of different content categories represented in the dataset.
   - Country Transformation: Creating a country dimension and adding regional classifications to support geographical analysis.
 ## Data Modelling and Relationships
+! [ Netflix Data Model ] (
 
+## Key Metrics
+A set of DAX measures was developed to evaluate the composition of the Netflix content library, examine release_year trends, and support geographical analysis.
 
-    
-
+| Metric | Description | Analytical Purpose |
+|-----|-----|------|
+| Total Titles | Counts the titles represented in the dataset according to the measure's counting logic. | Evaluate Overall size of the content library. |
+| Total Movies | Counts titles classified as movies. | Evaluates the movie component of the library. |
+| Total TV shows | Counts titles classified as TV shows. | Evaluates the TV show component of the library. |
+| Total Genre | Counts the distinct genres represented in the analysis. | Assesses the variety of content categories |
+| Total Growth | Measures overall growth according to the DAX calculation. | It provides a high level view of growth. |
+| Previous Year Releases | Returns the release count of the previous year where applicable. | Provides comparison point for year-over-year analysis. |
+| YoY Change | Calculates the difference between the current year's and previous year's release counts. | Identifies increases or decreases in releases. |
+| YoY Growth | Calculates the percentage change releases compare with the previous year. | Evaluates the rate of change in annual releases. |
   
