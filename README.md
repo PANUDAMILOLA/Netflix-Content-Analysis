@@ -60,8 +60,12 @@ A set of DAX measures was developed to evaluate the composition of the Netflix c
 | YoY Growth | Calculates the percentage change releases compare with the previous year. | Evaluates the rate of change in annual releases. |
 
 ## Executive Summary
+This analysis provides an overview of content release patterns and geographical distribution, offering insights into the composition and evolution of Netflix's content library.
 
-The analysis of the Netflix content dataset revealed that 2018 was the peak release year, with 464 titles released. The United States accounted for the largest share of the content collection, followed by India and the United Kingdom, highlighting the prominence of these counties in Netflix's content library.
 
-The analysis provides an overview of content release patterns and geographical distribution, offering insights into the composition and evolution of Netflix's content library.
+The findings revealed that 2018 was the peak release year, with 464 titles released. The United States accounted for the largest share of the content collection, followed by India and the United Kingdom, highlighting the prominence of these counties in Netflix's content library.
+
+
+<img width="884" height="547" alt="image" src="https://github.com/user-attachments/assets/0597eeb1-748e-4311-8afa-9d87fa6aaee0" />
+
   
