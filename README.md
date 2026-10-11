@@ -88,6 +88,8 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
 
     ## Limitations
    - Viewership and Engagement: The analysis focuses on content distribution and release-year patterns; audience engagement, viewing behavior, and revenue were outside its scope.
+   - Content Performance: The findings identify patterns in the catalogue but do not establish audience preferences or the commercial performance of individual titles.
+   - Future Analysis: Integrating audience engagement and market data could provide additional insights to support content acquisit
     
 
 
