@@ -79,4 +79,7 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
 - United States Leads Country Distribution: The United States rank first with 3,239 titles across 68 genres. Its leading genres are Drama, Documentaries, and Comedies. With approximately three times as many titles as India.
 - Differences in Country-Level Content Composition: India ranks second with 1,057 titles across 45 genres, with International Movies, Dramas, and Comedies leading its catalogue. The United Kingdom follows with 638 titles across 57 genres, led by British TV shows, International Movies, and International TV shows. These findings illustrate differences in both catalogue size and genre representation across the three leading countries.
 
+  <img width="885" height="596" alt="image" src="https://github.com/user-attachments/assets/7b3506e6-29ef-4e9b-bc8f-96dc44baa19c" />
+
+
 
