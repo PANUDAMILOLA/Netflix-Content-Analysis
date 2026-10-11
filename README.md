@@ -81,5 +81,11 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
 
   <img width="885" height="596" alt="image" src="https://github.com/user-attachments/assets/7b3506e6-29ef-4e9b-bc8f-96dc44baa19c" />
 
+  ## RECOMMENDATIONS
+  - Investigate Content Gaps Across Markets: Conduct further research into Countries and Regions with lower title representation to identify potential catalogue  gaps. Combine these findings with audience research and local market insights before making content investment decisions.
+  - Use Release-Year Trends to inform Content Planning: Examine changes in title distribution across release years to understand the catalogue's composition and identify areas for further investigation. Supplement these findings with audience engagement data to help guide future content acquisition and production decisions.
+  - Strengthen Country-Level Content Insights: Explore the leading genres and content categories across major contributing countries, including the United States, India and the United Kingdom. Combine these insights with viewing behaviour and audience preferences to support more informed content curation and regional programming strategies.
+    
+
 
 
