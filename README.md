@@ -74,4 +74,9 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
 - Year-Over-Year Fluctuations: The number of titles varied across release years, with periods of growth and decline rather than a consistent upward trend.
 <img width="929" height="519" alt="image" src="https://github.com/user-attachments/assets/8e580d7e-253f-4f6f-920d-889a7eaa16bd" />
 
+## Countries and Regional Distribution
+- Regional Distribution: North America leads in title distribution, followed by Asia and Europe, highlighting the prominence of these regions in the Netflix dataset.
+- United States Leads Country Distribution: The United States rank first with 3,239 titles across 68 genres. Its leading genres are Drama, Documentaries, and Comedies. With approximately three times as many titles as India.
+- Differences in Country-Level Content Composition: India ranks second with 1,057 titles across 45 genres, with International Movies, Dramas, and Comedies leading its catalogue. The United Kingdom follows with 638 titles across 57 genres, led by British TV shows, International Movies, and International TV shows. These findings illustrate differences in both catalogue size and genre representation across the three leading countries.
+
 
