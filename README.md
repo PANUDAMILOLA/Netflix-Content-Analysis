@@ -69,11 +69,9 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
 <img width="884" height="547" alt="image" src="https://github.com/user-attachments/assets/0597eeb1-748e-4311-8afa-9d87fa6aaee0" />
 
 ## Trend Analysis
-- Peak Release Year
-The analysis identified 2018 as the peak release year, with 1,146 titles. This highlights 2018 as a significant year ion the release-year distribution of the content catalogue. Examining the years surrounding this peak provides further insight into how the catalogue release year composition varies over time.
-- Declining Trend After the Peak 
-Following the peak, the analysis shows a downward trend in the number of titles across subsequent release years. By 2021, the year-over-over change was -361 titles, representing a decline of -38% compared with the preceding year. This indicates a substantial reduction in the number of title associated with that release year relative to previous year.
-- Year-Over-Year Fluctuations
-The year-over-year analysis reveals that the number of titles did not increase consistently across release years. Periods of growth were followed by periods of decline, demonstrating fluctuations in the distribution of content across release years. Tracking these changes helps identify years with notable increases or decreases in the catalogue's release-year profile.
-- Implications for Content Strategy
-The observed patterns provide a basis for further investigation into the age and composition of the content catalogue. Understanding which release years are strongly represented can help inform decisions about catalogue analysis and content planning. However, release-year data alone cannot establish the reasons behind the observed changes or determine when titles were added to Netflix.
+- Peak Release Year: 2018 recorded the highest number of titles, with 1,146 releases, representing year-over-year growth of 11%.
+- Declining Trend: By 2021, the year-over-year change -346 titles, representing a 38% declined compared with the previous year.
+- Year-Over-Year Fluctuations: The number of titles varied across release years, with periods of growth and decline rather than a consistent upward trend.
+<img width="929" height="519" alt="image" src="https://github.com/user-attachments/assets/8e580d7e-253f-4f6f-920d-889a7eaa16bd" />
+
+
