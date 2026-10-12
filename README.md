@@ -99,7 +99,7 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
 This project demonstrates my practical skills in data cleaning, data modelling, DAX, 
 data visualization, and business insight generation using Power BI.
 
-Connect with me on Linkedln
+Connect with me on Linkedln https://www.linkedin.com/in/damilola-panu
     
 
 
