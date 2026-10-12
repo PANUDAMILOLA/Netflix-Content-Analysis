@@ -89,7 +89,17 @@ The findings revealed that 2018 was the peak release year, with 1,146 titles rel
     ## Limitations
    - Viewership and Engagement: The analysis focuses on content distribution and release-year patterns; audience engagement, viewing behavior, and revenue were outside its scope.
    - Content Performance: The findings identify patterns in the catalogue but do not establish audience preferences or the commercial performance of individual titles.
-   - Future Analysis: Integrating audience engagement and market data could provide additional insights to support content acquisit
+   - Future Analysis: Integrating audience engagement and market data could provide additional insights to support content acquisition, production, and regional programming decisions.
+---------------------------------------------------------------------
+## Author    
+**Panu Damilola**
+     
+*Aspiring Data Analyst | Power BI*
+     
+This project demonstrates my practical skills in data cleaning, data modelling, DAX, 
+data visualization, and business insight generation using Power BI.
+
+Connect with me on Linkedln
     
 
 
